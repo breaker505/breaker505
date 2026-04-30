@@ -16,6 +16,8 @@
 
 <br><br>
 
+<h3>项目</h3>
+
 <a href="https://github.com/breaker505/shipu-skill">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=breaker505&repo=shipu-skill&theme=buefy&hide_border=true" width="48%" />
 </a>
@@ -25,24 +27,17 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=breaker505&show_icons=true&theme=buefy&hide_border=true&count_private=true&bg_color=ffffff00" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breaker505&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff00" width="48%" />
+<h3>技术栈</h3>
+
+<code>C++</code>&nbsp;
+<code>Python</code>&nbsp;
+<code>C</code>&nbsp;
+<code>FFmpeg</code>&nbsp;
+<code>CUDA</code>&nbsp;
+<code>Linux</code>&nbsp;
+<code>ROS2</code>
 
 <br><br>
-
-<table border="0" align="center">
-  <tr>
-    <td><b>C++</b></td>
-    <td><b>Python</b></td>
-    <td><b>C</b></td>
-    <td><b>FFmpeg</b></td>
-    <td><b>CUDA</b></td>
-    <td><b>Linux</b></td>
-    <td><b>ROS2</b></td>
-  </tr>
-</table>
-
-<br>
 
 ---
 
