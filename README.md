@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:FF69B4&height=180&section=header&text=%F0%9F%90%9F+%E9%B1%BC%E8%B7%83%E5%8E%82%E9%95%BF&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=32&duration=4000&pause=1000&color=4A5568&center=true&vCenter=true&width=500&lines=%F0%9F%90%9F+%E9%B1%BC%E8%B7%83%E5%8E%82%E9%95%BF;C%2B%2B+%C2%B7+%E9%9F%B3%E8%A7%86%E9%A2%91+%C2%B7+AI+%E5%BA%94%E7%94%A8;C%2B%2B+%C2%B7+Linux+%C2%B7+CUDA+%C2%B7+ROS2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=28&duration=4000&pause=1000&color=4A5568&center=true&vCenter=true&width=400&lines=C%2B%2B+%C2%B7+%E9%9F%B3%E8%A7%86%E9%A2%91+%C2%B7+AI+%E5%BA%94%E7%94%A8;C%2B%2B+%C2%B7+Linux+%C2%B7+CUDA+%C2%B7+ROS2)](https://git.io/typing-svg)
 
 <br>
 
@@ -59,4 +63,4 @@
 
 🔥 鱼跃厂长 · 持续构建中
 
-</div>
+</p>
