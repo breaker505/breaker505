@@ -92,6 +92,9 @@
 </h2>
 
 <p align="center">
+    <a href="https://space.bilibili.com/632881876">
+    <img src="https://img.shields.io/badge/-B站-0d1117?style=for-the-badge&logo=bilibili&logoColor=ff007f" />
+  </a>
   <a href="https://breaker505.github.io">
     <img src="https://img.shields.io/badge/-BLOG-0d1117?style=for-the-badge&logo=githubpages&logoColor=00d4ff" />
   </a>
