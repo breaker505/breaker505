@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:FF69B4&height=180&section=header&text=%F0%9F%90%9F+%E9%B1%BC%E8%B7%83%E5%8E%82%E9%95%BF&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D5FF,100:FCD5E5&height=160&section=header&text=%F0%9F%90%9F+%E9%B1%BC%E8%B7%83%E5%8E%82%E9%95%BF&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -34,25 +34,25 @@
 <h3>技术栈</h3>
 
 <a href="https://isocpp.org/">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </a>
 <a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </a>
 <a href="https://en.cppreference.com/w/c">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </a>
 <a href="https://ffmpeg.org/">
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
 </a>
 <a href="https://developer.nvidia.com/cuda-toolkit">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </a>
 <a href="https://www.linux.org/">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </a>
 <a href="https://www.ros.org/">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
 </a>
 
 <br><br>
@@ -63,4 +63,4 @@
 
 🔥 鱼跃厂长 · 持续构建中
 
-</p>
+</div>
