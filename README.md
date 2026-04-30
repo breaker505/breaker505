@@ -29,13 +29,27 @@
 
 <h3>技术栈</h3>
 
-<code>C++</code>&nbsp;
-<code>Python</code>&nbsp;
-<code>C</code>&nbsp;
-<code>FFmpeg</code>&nbsp;
-<code>CUDA</code>&nbsp;
-<code>Linux</code>&nbsp;
-<code>ROS2</code>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://en.cppreference.com/w/c">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</a>
+<a href="https://ffmpeg.org/">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+</a>
+<a href="https://developer.nvidia.com/cuda-toolkit">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</a>
+<a href="https://www.linux.org/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</a>
+<a href="https://www.ros.org/">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</a>
 
 <br><br>
 
