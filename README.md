@@ -8,9 +8,9 @@
 
 <br>
 
-<a href="https://space.bilibili.com/632881876">
+<!-- <a href="https://space.bilibili.com/632881876">
   <img src="https://img.shields.io/badge/B站-鱼跃厂长-ff69b4?style=flat&logo=bilibili&logoColor=white" />
-</a>
+</a> -->
 <a href="https://breaker505.github.io">
   <img src="https://img.shields.io/badge/Blog-个人博客-4a90d9?style=flat&logo=githubpages&logoColor=white" />
 </a>
