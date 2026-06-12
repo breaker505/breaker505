@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D5FF,100:FCD5E5&height=160&section=header&text=%F0%9F%90%9F+%E9%B1%BC%E8%B7%83%E5%8E%82%E9%95%BF&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8D5FF,100:FCD5E5&height=160&section=header&text=%F0%9F%90%9F%20%E7%88%B1%E5%8F%91%E5%91%86%E7%9A%84%E9%B1%BC&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br>
 
 <!-- <a href="https://space.bilibili.com/632881876">
-  <img src="https://img.shields.io/badge/B站-鱼跃厂长-ff69b4?style=flat&logo=bilibili&logoColor=white" />
+  <img src="https://img.shields.io/badge/B站-爱发呆的鱼-ff69b4?style=flat&logo=bilibili&logoColor=white" />
 </a> -->
 <a href="https://breaker505.github.io">
   <img src="https://img.shields.io/badge/Blog-个人博客-4a90d9?style=flat&logo=githubpages&logoColor=white" />
@@ -61,6 +61,6 @@
 
 <i>从做过什么，到能讲明白什么。</i>
 
-🔥 爱发呆的鱼 · 持续构建中
+爱发呆的鱼 · 持续构建中
 
 </div>
