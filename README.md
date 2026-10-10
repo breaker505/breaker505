@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=28&duration=4000&pause=1000&color=4A5568&center=true&vCenter=true&width=400&lines=C%2B%2B+%C2%B7+%E9%9F%B3%E8%A7%86%E9%A2%91+%C2%B7+AI+%E5%BA%94%E7%94%A8;C%2B%2B+%C2%B7+Linux+%C2%B7+CUDA+%C2%B7+ROS2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=28&duration=4000&pause=1000&color=4A5568&amp;center=true&vCenter=true&width=400&lines=C%2B%2B+%C2%B7+%E9%9F%B3%E8%A7%86%E9%A2%91+%C2%B7+AI+%E5%BA%94%E7%94%A8;C%2B%2B+%C2%B7+Linux+%C2%B7+CUDA+%C2%B7+ROS2)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br>
 
@@ -22,11 +22,11 @@
 
 <h3>项目</h3>
 
-<a href="https://github.com/breaker505/shipu-skill">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breaker505&repo=shipu-skill&theme=buefy&hide_border=true" width="48%" />
+<a href="https://github.com/breaker505/resumify">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breaker505&repo=resumify&theme=buefy&hide_border=true" width="48%" />
 </a>
-<a href="https://github.com/breaker505/cpp-av-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breaker505&repo=cpp-av-notes&theme=buefy&hide_border=true" width="48%" />
+<a href="https://github.com/breaker505/NightLight-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=breaker505&repo=NightLight-Website&theme=buefy&hide_border=true" width="48%" />
 </a>
 
 <br><br>
